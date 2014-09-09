@@ -1,0 +1,2 @@
+Java has two areas of the memory we care about: The ___ and the ____./Stack;Heap
+Instance variables are variables declared inside a ____ but outside any ____./class;method
