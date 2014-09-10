@@ -1,0 +1,3 @@
+zTitle1/ArtistC/zRating1/zBpm1
+yTitle2/ArtistB/yRating2/yBpm2
+xTitle3/ArtistA/xRating3/xBpm3
